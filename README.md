@@ -19,7 +19,17 @@ There are a number of tickets on the to do board, each marked either home, about
 The exercise will run in two phases. Firstly, the html tickets are to be completed. After merges are complete,
 the css tickets may be picked up.
 
-WARNING!!!
+## Branching
+
+In order to complete this exercise, exeryone will have to create a branch to work on their ticket.
+
+Each ticket has been labeled with the required branch name (e.g. 'home_header_html').
+
+Please simply add an underscore and your first name (e.g. home_header_html_michael) to the above.
+
+Branch naming strategies are a common part of software development/team work. Please use the above strategy, or your code may not get merged!
+
+## WARNING!!!
 
 This exercise IS GOING TO GO WRONG. It has been designed to go wrong so that you may see common problems when
 working as a team, and solutions/strategies to help things go smoothly.
