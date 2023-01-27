@@ -1,0 +1,16 @@
+#contactHead {
+    text-align: center; color:red ; background: yellow ; border: 10px dashed blue; padding: 5px; width: 500px; 
+}
+
+#links {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f5b32f;
+    flex-wrap:wrap; 
+}
+
+ /* ============================HEADER============================= */
+
+  /* ============================MAIN============================= */
+
+   /* ============================FOOTER============================= */
